@@ -1,6 +1,3 @@
-"""
-File for the Node class
-"""
 import pygame
 
 WIDTH = 800
@@ -17,9 +14,6 @@ ORANGE = (255, 165, 0)
 GREY = (128, 128, 128)
 
 class Node:
-	"""
-    Node class for the A* algorithm
-    """
 	def __init__(self, row, col, width, total_rows):
 		self.row = row
 		self.col = col
