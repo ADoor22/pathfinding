@@ -17,6 +17,9 @@ Click where the start node and end node is. Draw the obstacles and create your o
 - [ ] Create menu to show controls and available algorithms
 
 ### Installation
+For Python 3.11 and greater:
+    
+    pip3 install -e .
 
 
 ### Screenshots
