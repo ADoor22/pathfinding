@@ -4,7 +4,7 @@
 
 Made using Pygame module in python to create an intuitive pathfinding algorithm visualization.
 
-
+pyth
 My aim is to add different algorithms to this visualisation program. My first algorithm is A*.
 Click where the start node and end node is. Draw the obstacles and create your own map.
 
