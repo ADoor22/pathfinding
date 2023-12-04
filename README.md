@@ -1,6 +1,6 @@
 # Pathfinding
 
-Made using Pygame library in Python to create an intuitive pathfinding algorithm visualization.
+Made using Pygame library in Python to create an intuitive pathfinding algorithm visualisation.
 
 Click where the start node and end node is. Draw the obstacles and create your own map.
 
@@ -10,6 +10,14 @@ Click where the start node and end node is. Draw the obstacles and create your o
 - 'a' to start finding the shortest route using A* algorithm
 - 'd' to start finding the shortest route using Dijkstra's algorithm
 - 'c' to clear the board
+
+**Colours** 
+- Blue indicates points which the algorithm has searched
+- Red indicates points that are in a queue to be searched next by the algorithm
+- Green indicates the shortest path
+- Orange indicates starting position
+- Purple indicates ending point
+- Black indicates a wall or obstruction that the algorithm will go around
 
 ### To do 
 - [x] Add A* algorithm
