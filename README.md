@@ -8,7 +8,7 @@ Click where the start node and end node is. Draw the obstacles and create your o
 
 - Right Click to erase tile colour
 - 'a' to start finding the shortest route using A* algorithm
-- 'd' to start Dijkstra's algorithm (haven't implemented this algorithm yet)
+- 'd' to start finding the shortest route using Dijkstra's algorithm
 - 'c' to clear the board
 
 ### To do 
