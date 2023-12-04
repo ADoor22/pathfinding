@@ -25,5 +25,5 @@ In the Pathfinding directory follow these commands to install:
 ### Screenshots
 <img width="799" alt="image" src="https://github.com/ADoor22/pathfinding/assets/101601277/49da808d-771c-4124-9c73-0ecaa23bb724">
 ![alt text](https://github.com/ADoor22/pathfinding/assets/101601277/aa83dbf4-718b-456f-89b0-eba74e846b25.gif)
-
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
 <img width="802" alt="image" src="https://github.com/ADoor22/pathfinding/assets/101601277/a59d91f9-e8c5-4db9-a7d8-73e4d621b22c">
